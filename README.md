@@ -21,7 +21,7 @@ yarn build
 ```
 
 ## Directory Structure
-
+```
 ├─src
 |  ├─App.vue
 |  ├─main.js
@@ -38,6 +38,7 @@ yarn build
 |  ├─assets
 |  |   ├─img
 |  |   ├─css
+```
 
 ## Use
 components =》 MainTabBar.vue
