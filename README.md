@@ -20,6 +20,25 @@ yarn serve
 yarn build
 ```
 
+## Directory Structure
+
+├─src
+|  ├─App.vue
+|  ├─main.js
+|  ├─views
+|  |   ├─sort
+|  |   ├─shop
+|  |   ├─my
+|  |   ├─home
+|  ├─router
+|  |   └index.js
+|  ├─components
+|  |     ├─MainTabBar.vue
+|  |     ├─tabbar
+|  ├─assets
+|  |   ├─img
+|  |   ├─css
+
 ## Use
 components =》 MainTabBar.vue
 
